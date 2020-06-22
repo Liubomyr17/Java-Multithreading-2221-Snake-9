@@ -1,0 +1,16 @@
+
+Snake 9
+
+There was still the most important class - Room.
+What do we need to describe it?
+Room dimensions (width and height) - times.
+The snake is two.
+The mouse is three.
+
+It is necessary:
+
+a) create an int width and height variable in the Room class.
+b) create a variable snake of the Snake type in the Room class.
+c) create a variable mouse of type Mouse in the Room class.
+d) create for them all getters and setters.
+e) create a constructor. The constructor must take three parameters: width, height and ... snake!
